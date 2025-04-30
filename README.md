@@ -1,4 +1,4 @@
-# Banking System Database Management Project
+# Banking System Management
 
 This project is a comprehensive implementation of a banking system database with a graphical user interface (GUI) for database management operations. Developed as part of a Database Design and Management course, it demonstrates advanced database concepts including inheritance relationships, transaction management, stored procedures, views, functions, triggers, and data encryption.
 
@@ -239,21 +239,21 @@ The web application provides interfaces for:
 ## Screenshots
 
 ### Customer Management
-![Customer List](Customer.png)
-![Customer Details](CustomerView.png)
-![Add Customer](CustomerAdd.png)
+![Customer List](images/Customer.png)
+![Customer Details](images/CustomerView.png)
+![Add Customer](images/CustomerAdd.png)
 
 ### Account Management
-![Account List](Account.png)
-![Account Details](AccountView.png)
+![Account List](images/Account.png)
+![Account Details](images/AccountView.png)
 
 ### Loan Management
-![Loan List](Loan.png)
-![Loan Details](LoanView.png)
+![Loan List](images/Loan.png)
+![Loan Details](images/LoanView.png)
 
 ### Transaction Management
-![Transaction List](Transaction.png)
-![Transaction Details](TransactionView.png)
+![Transaction List](images/Transaction.png)
+![Transaction Details](images/TransactionView.png)
 
 ## Future Enhancements
 
