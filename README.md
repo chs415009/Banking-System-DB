@@ -21,7 +21,7 @@ The Banking System Database Management project provides a functional GUI for per
 
 The database is designed to model a full-featured banking system using SQL Server's capabilities for complex relationships and inheritance.
 
-![Database Logical Model](logical%20model.png)
+![Database Logical Model](images/logical%20model.png)
 
 ### Key Entities:
 - **Customer**: Information about bank customers (individuals and businesses)
@@ -67,10 +67,10 @@ The database implements inheritance using SQL Server's approach to table inherit
 
 ### Advanced SQL Features:
 - **Stored Procedures**:
-  - `GetCustomerAccountSummary`: Retrieves account summary for a customer
+  - `GetCustomerAccountSummary`: Retrieves total accounts and total balance for a customer
   - `TransferMoney`: Handles money transfers between accounts with transaction management
   - `ProcessLoanApplication`: Processes new loan applications
-  - `UpdateAccountBalance`: Updates account balances based on transactions
+  - `UpdateAccountBalance`: Updates account balances based on customer transactions
   - `GetCustomerLoanDetails`: Retrieves loan details for a customer
 
 - **Views**:
